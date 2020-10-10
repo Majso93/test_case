@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 80DC-E55F
+
+ R‚pertoire de C:\Users\majdi\Desktop\Git_testing
+
+10/10/2020  10:39    <DIR>          .
+10/10/2020  10:39    <DIR>          ..
+10/10/2020  10:39                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  161ÿ063ÿ989ÿ248 octets libres
